@@ -3,7 +3,7 @@
 ### My main tech interests are Cybersecurity and App Design.
 
 
-### I can be reached at andrewpgannon1@gmail.com
+### I can be reached at andrewpgannon1@gmail.com 📫 
 <!--
 **AndrewGann0n/AndrewGann0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
