@@ -2,7 +2,7 @@ Hello world! 👋
 
 I am currently working on C++ and Go oriented projects.
 
-My main tech interests are Cybersecurity and App Design.
+My main tech interests are Cybersecurity and Algorithms.
 
 
 I can be reached at andrewpgannon1@gmail.com 📫 
