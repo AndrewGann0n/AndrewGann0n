@@ -1,6 +1,6 @@
 Hello world! 👋
 
-I am currently working on C++ oriented projects.
+I am currently working on Node.js oriented projects.
 
 My main tech interests are Cybersecurity, Cryptocurrencies, and Algorithms.
 
