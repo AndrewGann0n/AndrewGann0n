@@ -1,6 +1,6 @@
 Hello world! 👋
 
-I am currently working on Node.js oriented projects.
+I am focused on learning Solidity at the moment. I am broadening my knowledge of blockchain and focusing on the technical details of smart contracts.
 
 My main tech interests are Cybersecurity, Cryptocurrencies, and Algorithms.
 
