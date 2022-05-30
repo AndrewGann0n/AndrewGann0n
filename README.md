@@ -1,8 +1,8 @@
 Hello world! 👋
 
-I am focused on python-related projects at the moment
+I am focused on python-related projects at the moment.
 
-My main tech interests are Cybersecurity, Cryptocurrencies, and Algorithms.
+
 
 
 I can be reached at andrewpgannon1@gmail.com 📫 
