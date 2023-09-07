@@ -5,7 +5,7 @@ I am focused on python-related projects at the moment.
 
 
 
-I can be reached at andrewpgannon1@gmail.com 📫 
+
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AndrewGann0n&theme=tokyonight&show_icons=true&count_private=true)
